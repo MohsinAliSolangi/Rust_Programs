@@ -5,6 +5,7 @@ use std::cmp::Ordering;
 fn main() {
     println!("Welcome to the Gessing Game");
     let secret_number = rand::thread_rng().gen_range(1..101); //limit between 1 to 101
+    // Changes from dev
     println!("this is Secret Number : {} ", secret_number);
     loop {
         println!("Please input your guess");
