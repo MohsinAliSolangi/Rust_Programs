@@ -81,4 +81,16 @@ cargo run
 ## License
 
 This project is licensed under the MIT License.
+
+## 🚀 Contact
+
+For any questions, feedback, or inquiries, feel free to reach out to **Mohsin Ali Solangi**. You can connect via the following platforms:
+
+🌐 **Linktree**: [Mohsin Ali Solangi](https://linktr.ee/mohsinalisolangi)
+
+🔗 **LinkedIn**: [Mohsin Ali Solangi](https://www.linkedin.com/in/mohsinalisolangi/)
+
+Looking forward to hearing from you! 😄
+
 ```
+
